@@ -1,0 +1,10 @@
+# Ignored macOS files:
+
+
+# Ignored eclipse files:
+.classpath
+.project
+.settings/
+
+# Ignored java .class files:
+bin/
