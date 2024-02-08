@@ -1,5 +1,5 @@
 # Ignored macOS files:
-
+.DS_Store
 
 # Ignored eclipse files:
 .classpath
